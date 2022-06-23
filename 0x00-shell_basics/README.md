@@ -7,3 +7,4 @@
 >>6-firstdirectory creates a dir named my_first_directory in /tmp
 >>7-movethatfile moves the file betty from /tmp/ to /tmp/my_first_directory
 >>8-firstdelete deletes the file betty
+>>9-firstdirdeletion deltes the directory my_first_directory 
