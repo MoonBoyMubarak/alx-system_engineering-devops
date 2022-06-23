@@ -4,3 +4,4 @@
 >>3-listfiles displays file in along format   
 >>4-listmorefiles displsys current dir contents including hidden files
 >>5-listfilesdigitonly displays hidden files, long format, user id 
+>>6-firstdirectory creates a dir named my_first_directory in /tmp/
