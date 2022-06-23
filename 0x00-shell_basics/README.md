@@ -17,3 +17,4 @@
 >>101-clean_emacs cleans files with ~ char
 >>102-tree mkdirs
 >>103-commas lists dir
+>>school.mgc detects school datafile
