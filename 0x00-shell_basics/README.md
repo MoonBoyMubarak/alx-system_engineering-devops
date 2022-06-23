@@ -13,3 +13,4 @@
 >>12-file_type prints file type
 >>13-symbolic_link link files
 >>14-copy_html cpies html files
+>>100-lets_move move uppercase files
