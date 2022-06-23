@@ -15,3 +15,4 @@
 >>14-copy_html cpies html files
 >>100-lets_move move uppercase files
 >>101-clean_emacs cleans files with ~ char
+>>102-tree mkdirs
