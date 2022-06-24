@@ -10,3 +10,4 @@
 >>9-John_Doe sets permission to 753
 >>10-mirror_permissions mirros permission
 >>11-directories_permissionsadds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
+>>12-directory_permissions Create a script that creates a directory called my_dir with permissions 751 in the working directory.
