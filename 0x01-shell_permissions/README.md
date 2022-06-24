@@ -9,3 +9,4 @@
 >>8-James_Bond sets the permission to the file hello as 007
 >>9-John_Doe sets permission to 753
 >>10-mirror_permissions mirros permission
+>>11-directories_permissionsadds execute permission to all subdirectories of the current directory for the owner, the group owner and all other users. Regular files should not be changed.
