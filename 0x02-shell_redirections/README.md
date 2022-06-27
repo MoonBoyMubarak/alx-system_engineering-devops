@@ -8,3 +8,4 @@
 7-file creates a file named exactly \*\\'"Best School"\'\\*$\?\*\*\*\*\*:) containing the text Best School ending by a new line. 
 8-ced_state dubs lst line of file iact
 9-duplicate_last_line duplicates the last line of file iacta
+10-no_more_js deletes all the regular files with .js
