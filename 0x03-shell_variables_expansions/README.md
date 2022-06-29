@@ -6,3 +6,4 @@
 5-local_variableslists all local variables and environment variables, and functions.
 6-create_local_variable creates a new local variable
 6-create_local_variable creates a new local variable.
+7-create_global_variable creates new global var
